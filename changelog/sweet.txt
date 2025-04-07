@@ -1,2 +1,16 @@
+# April 06 2025
+- Initial build A15 Qpr2
+- Support bypass charging (need root for changing mode)
+- XiaomiDolby included
+- LeicaCam included
+- KernelSU supported
+- Use power profile from Sunfish
+- Increase speaker volume
+- Add support for 90hz display
+- Implement dex2oat optimization
+- Import RIL stack from mojito V14.0.8.0.SKGMIXM
+- Move to C2 media services
+- etc.
+
 # Feb 24 2025
-- Initial commit
+- Initial build A15 qpr1
